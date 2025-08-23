@@ -1,0 +1,1816 @@
+{
+  "it_tests": [
+  {
+    "savol": "RAM (Random Access Memory) nima?",
+    "variantlar": [
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi.",
+      "RAM — bu kompyuterning tezkor (operativ) xotirasi bo‘lib, vaqtincha ma’lumotlarni saqlash uchun ishlatiladi."
+    ],
+    "javob": "RAM — bu kompyuterning tezkor (operativ) xotirasi bo‘lib, vaqtincha ma’lumotlarni saqlash uchun ishlatiladi."
+  },
+  {
+    "savol": "‘Find and Replace’ qayerda joylashgan?",
+    "variantlar": [
+      "Microsoft Word va Excel dasturlarida “Home” menyusi → “Editing” guruhida joylashgan.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Operatsion tizim qurilmalarni sinxron boshqarish uchun asosiy modul sifatida qo‘llaniladi."
+    ],
+    "javob": "Microsoft Word va Excel dasturlarida “Home” menyusi → “Editing” guruhida joylashgan."
+  },
+  {
+    "savol": "‘Mail Merge’ funksiyasi qaysi vazifani bajaradi?",
+    "variantlar": [
+      "Mail Merge — ommaviy hujjatlarni, masalan, xatlar, sertifikatlar yoki konvertlarni shaxsiylashtirish imkonini beradi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi."
+    ],
+    "javob": "Mail Merge — ommaviy hujjatlarni, masalan, xatlar, sertifikatlar yoki konvertlarni shaxsiylashtirish imkonini beradi."
+  },
+  {
+    "savol": "‘Page Layout’ menyusi nima uchun kerak?",
+    "variantlar": [
+      "“Page Layout” menyusi sahifa o‘lchami, yo‘nalishi, chegaralari, ustunlar kabi sahifa tartibini sozlash uchun ishlatiladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "“Page Layout” menyusi sahifa o‘lchami, yo‘nalishi, chegaralari, ustunlar kabi sahifa tartibini sozlash uchun ishlatiladi."
+  },
+  {
+    "savol": "Animatsiya nima uchun kerak?",
+    "variantlar": [
+      "PowerPoint taqdimotlarida animatsiya elementlarga harakat, effekt yoki vizual diqqat jalb qilish uchun qo‘llaniladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "PowerPoint taqdimotlarida animatsiya elementlarga harakat, effekt yoki vizual diqqat jalb qilish uchun qo‘llaniladi."
+  },
+  {
+    "savol": "Autosum tugmasi nima uchun kerak?",
+    "variantlar": [
+      "Excel dasturida Autosum (∑) tugmasi ustun yoki qatordagi raqamlarni tezda qo‘shib chiqish uchun ishlatiladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi."
+    ],
+    "javob": "Excel dasturida Autosum (∑) tugmasi ustun yoki qatordagi raqamlarni tezda qo‘shib chiqish uchun ishlatiladi."
+  },
+  {
+    "savol": "BIOS ning to‘liq nomi nima?",
+    "variantlar": [
+      "BIOS — Basic Input/Output System degan so‘zlarning qisqartmasi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi."
+    ],
+    "javob": "BIOS — Basic Input/Output System degan so‘zlarning qisqartmasi."
+  },
+  {
+    "savol": "BIOS qanday tizimga tegishli?",
+    "variantlar": [
+      "BIOS kompyuterning past darajadagi tizim dasturi bo‘lib, kompyuter yoqilganda apparatlarni test qilish va yuklashni boshlaydi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "BIOS kompyuterning past darajadagi tizim dasturi bo‘lib, kompyuter yoqilganda apparatlarni test qilish va yuklashni boshlaydi."
+  },
+  {
+    "savol": "Bulutli texnologiyalar nima imkoniyat beradi?",
+    "variantlar": [
+      "Bulutli texnologiyalar foydalanuvchiga internet orqali fayl saqlash, dastur ishlatish, ma’lumot almashish imkonini beradi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi."
+    ],
+    "javob": "Bulutli texnologiyalar foydalanuvchiga internet orqali fayl saqlash, dastur ishlatish, ma’lumot almashish imkonini beradi."
+  },
+  {
+    "savol": "Bulutli texnologiyalarda faylni saqlash uchun qaysi xizmat ishlatiladi?",
+    "variantlar": [
+      "Google Drive, Dropbox, OneDrive, iCloud — bulutli fayl saqlash xizmatlaridir.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Operatsion tizim qurilmalarni sinxron boshqarish uchun asosiy modul sifatida qo‘llaniladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "Google Drive, Dropbox, OneDrive, iCloud — bulutli fayl saqlash xizmatlaridir."
+  },
+  {
+    "savol": "Chipset kompyuterda nima vazifani bajaradi?",
+    "variantlar": [
+      "Chipset — kompyuterning anakartida joylashgan va protsessor, xotira, grafik karta, va boshqa qurilmalar o‘rtasidagi bog‘lanishni boshqaruvchi mikrosxemalar majmuasidir.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Chipset — kompyuterning anakartida joylashgan va protsessor, xotira, grafik karta, va boshqa qurilmalar o‘rtasidagi bog‘lanishni boshqaruvchi mikrosxemalar majmuasidir."
+  },
+  {
+    "savol": "Cloud backup tizimi qanday ishlaydi?",
+    "variantlar": [
+      "Cloud backup foydalanuvchining ma’lumotlarini avtomatik yoki qo‘lda internet orqali bulutga nusxa ko‘chirish orqali saqlaydi, yo‘qotishdan himoya qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi."
+    ],
+    "javob": "Cloud backup foydalanuvchining ma’lumotlarini avtomatik yoki qo‘lda internet orqali bulutga nusxa ko‘chirish orqali saqlaydi, yo‘qotishdan himoya qiladi."
+  },
+  {
+    "savol": "Cloud Computing qanday asosiy afzallikni beradi?",
+    "variantlar": [
+      "Cloud Computing foydalanuvchiga jismoniy qurilma yoki serverga ega bo‘lmasdan, dastur yoki xizmatdan foydalanish imkonini beradi — moslashuvchanlik, tejamkorlik va istalgan joydan foydalanish imkonini yaratadi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Cloud Computing foydalanuvchiga jismoniy qurilma yoki serverga ega bo‘lmasdan, dastur yoki xizmatdan foydalanish imkonini beradi — moslashuvchanlik, tejamkorlik va istalgan joydan foydalanish imkonini yaratadi."
+  },
+  {
+    "savol": "Cloud texnologiyada ‘scalability’ nimani anglatadi?",
+    "variantlar": [
+      "Scalability — bu tizimning yuk ko‘paygan sari resurslarni avtomatik ko‘paytirish yoki kamaytirish qobiliyatidir.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "Scalability — bu tizimning yuk ko‘paygan sari resurslarni avtomatik ko‘paytirish yoki kamaytirish qobiliyatidir."
+  },
+  {
+    "savol": "CMOS batareya kompyuterning qaysi komponentini saqlab turadi?",
+    "variantlar": [
+      "CMOS — BIOS sozlamalari, vaqt, sana kabi tizim konfiguratsiyalarini saqlaydi, kompyuter o‘chganida ham saqlanib qoladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi."
+    ],
+    "javob": "CMOS — BIOS sozlamalari, vaqt, sana kabi tizim konfiguratsiyalarini saqlaydi, kompyuter o‘chganida ham saqlanib qoladi."
+  },
+  {
+    "savol": "Conditional Formatting qanday vazifani bajaradi?",
+    "variantlar": [
+      "Excelda shartli formatlash katakdagi qiymatlarga asoslanib avtomatik rang, shrift yoki format o‘zgartirish imkonini beradi. Masalan, 100 dan katta sonlar yashil, kichiklari qizil bo‘lishi mumkin.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Excelda shartli formatlash katakdagi qiymatlarga asoslanib avtomatik rang, shrift yoki format o‘zgartirish imkonini beradi. Masalan, 100 dan katta sonlar yashil, kichiklari qizil bo‘lishi mumkin."
+  },
+  {
+    "savol": "Ctrl + B tugmalari nima vazifa bajaradi?",
+    "variantlar": [
+      "Ctrl + B — matnni qalin harflar bilan yozishga xizmat qiladi (Bold).",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Ctrl + B — matnni qalin harflar bilan yozishga xizmat qiladi (Bold)."
+  },
+  {
+    "savol": "Ctrl + C va Ctrl + V nima vazifani bajaradi?",
+    "variantlar": [
+      "Ctrl + C — nusxa olish (copy), Ctrl + V — joylashtirish (paste).",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi."
+    ],
+    "javob": "Ctrl + C — nusxa olish (copy), Ctrl + V — joylashtirish (paste)."
+  },
+  {
+    "savol": "Ctrl + S tugmalari nima uchun ishlatiladi?",
+    "variantlar": [
+      "Ctrl + S — faylni saqlash uchun ishlatiladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "Ctrl + S — faylni saqlash uchun ishlatiladi."
+  },
+  {
+    "savol": "Ctrl + Z qanday vazifa bajaradi?",
+    "variantlar": [
+      "Ctrl + Z — so‘nggi harakatni bekor qilish (Undo).",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi."
+    ],
+    "javob": "Ctrl + Z — so‘nggi harakatni bekor qilish (Undo)."
+  },
+  {
+    "savol": "Data Validation nima vazifani bajaradi?",
+    "variantlar": [
+      "Excelda Data Validation — katakka faqat muayyan turdagi ma’lumot kiritilishiga ruxsat beradi (masalan, faqat raqam, sana yoki tanlangan qiymatlar).",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Excelda Data Validation — katakka faqat muayyan turdagi ma’lumot kiritilishiga ruxsat beradi (masalan, faqat raqam, sana yoki tanlangan qiymatlar)."
+  },
+  {
+    "savol": "Direct Memory Access (DMA) kontrolleri nima vazifani bajaradi?",
+    "variantlar": [
+      "DMA — protsessor ishtirokisiz, qurilmalar va xotira o‘rtasida ma’lumot almashinuvini ta’minlaydi. Bu tezlikni oshiradi va protsessor yukini kamaytiradi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi."
+    ],
+    "javob": "DMA — protsessor ishtirokisiz, qurilmalar va xotira o‘rtasida ma’lumot almashinuvini ta’minlaydi. Bu tezlikni oshiradi va protsessor yukini kamaytiradi."
+  },
+  {
+    "savol": "Dropbox qanday xizmat?",
+    "variantlar": [
+      "Dropbox — bulutli fayl saqlash va ulashish xizmati bo‘lib, internet orqali fayllarni saqlash, sinxronlash va boshqalar bilan ulashish imkonini beradi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "Dropbox — bulutli fayl saqlash va ulashish xizmati bo‘lib, internet orqali fayllarni saqlash, sinxronlash va boshqalar bilan ulashish imkonini beradi."
+  },
+  {
+    "savol": "ECC (Error-Correcting Code) xotiraning asosiy vazifasi nima?",
+    "variantlar": [
+      "ECC RAM — xotiradagi xatoliklarni avtomatik aniqlash va tuzatish imkonini beruvchi maxsus xotira turi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "ECC RAM — xotiradagi xatoliklarni avtomatik aniqlash va tuzatish imkonini beruvchi maxsus xotira turi."
+  },
+  {
+    "savol": "Elektron pochta (email) nima uchun kerak?",
+    "variantlar": [
+      "Email — bu internet orqali xabar yuborish, fayl jo‘natish va aloqa qilish imkonini beruvchi vosita.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi."
+    ],
+    "javob": "Email — bu internet orqali xabar yuborish, fayl jo‘natish va aloqa qilish imkonini beruvchi vosita."
+  },
+  {
+    "savol": "Excel dasturi asosan nima uchun ishlatiladi?",
+    "variantlar": [
+      "Excel — bu jadval ko‘rinishida ma’lumotlar bilan ishlash, hisob-kitoblar, diagrammalar, tahlil va hisobotlar tayyorlash uchun ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi."
+    ],
+    "javob": "Excel — bu jadval ko‘rinishida ma’lumotlar bilan ishlash, hisob-kitoblar, diagrammalar, tahlil va hisobotlar tayyorlash uchun ishlatiladi."
+  },
+  {
+    "savol": "Excel dasturining asosiy vazifasi:",
+    "variantlar": [
+      "Excel yordamida hisob-kitoblar, ma’lumotlarni tartiblash, tahlil qilish, formulalar va grafiklar orqali vizual ko‘rsatish mumkin.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi."
+    ],
+    "javob": "Excel yordamida hisob-kitoblar, ma’lumotlarni tartiblash, tahlil qilish, formulalar va grafiklar orqali vizual ko‘rsatish mumkin."
+  },
+  {
+    "savol": "Excel fayllarining kengaytmasi nima?",
+    "variantlar": [
+      "Excel fayllari odatda .xlsx yoki eski versiyada .xls kengaytmalariga ega bo‘ladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Excel fayllari odatda .xlsx yoki eski versiyada .xls kengaytmalariga ega bo‘ladi."
+  },
+  {
+    "savol": "Excelda formulalarni boshlash uchun nima yoziladi?",
+    "variantlar": [
+      "Har qanday formula tenglik belgisi (=) bilan boshlanadi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "Har qanday formula tenglik belgisi (=) bilan boshlanadi."
+  },
+  {
+    "savol": "Excelda formulani kiritish qanday belgidan boshlanadi?",
+    "variantlar": [
+      "= (tenglik belgisi) — bu formulalar boshlanishi uchun ishlatiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi."
+    ],
+    "javob": "= (tenglik belgisi) — bu formulalar boshlanishi uchun ishlatiladi."
+  },
+  {
+    "savol": "Excelda jadvalni qanday saqlash mumkin?",
+    "variantlar": [
+      "“File” menyusiga kirib Save yoki Save As variantlarini tanlash orqali saqlanadi. Ctrl + S ham ishlatiladi.",
+      "Internet tarmoqlarida ishlatiladigan protokollardan biri bo‘lib, ma’lumot uzatishni ta’minlaydi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "“File” menyusiga kirib Save yoki Save As variantlarini tanlash orqali saqlanadi. Ctrl + S ham ishlatiladi."
+  },
+  {
+    "savol": "Excelda katak deb nimaga aytiladi?",
+    "variantlar": [
+      "Katak (cell) — bu jadvaldagi ustun va qator kesishgan joyi, unda ma’lumotlar kiritiladi. Masalan, A1.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi."
+    ],
+    "javob": "Katak (cell) — bu jadvaldagi ustun va qator kesishgan joyi, unda ma’lumotlar kiritiladi. Masalan, A1."
+  },
+  {
+    "savol": "Excelda katakdagi ma’lumotni nusxalash uchun qaysi tugmalar ishlatiladi?",
+    "variantlar": [
+      "Ctrl + C — nusxa olish, Ctrl + V — joylashtirish uchun ishlatiladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Ctrl + C — nusxa olish, Ctrl + V — joylashtirish uchun ishlatiladi."
+  },
+  {
+    "savol": "Excelda ma’lumotlarni filtrlash qayerda amalga oshiriladi?",
+    "variantlar": [
+      "“Data” menyusida joylashgan Filter tugmasi yordamida amalga oshiriladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "“Data” menyusida joylashgan Filter tugmasi yordamida amalga oshiriladi."
+  },
+  {
+    "savol": "Excelda makroslar (Macros) nima uchun kerak?",
+    "variantlar": [
+      "Makroslar — bu ko‘p takrorlanadigan amallarni avtomatlashtirish uchun yozilgan buyruqlar to‘plamidir.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Makroslar — bu ko‘p takrorlanadigan amallarni avtomatlashtirish uchun yozilgan buyruqlar to‘plamidir."
+  },
+  {
+    "savol": "Excelda 'Sheet' nima?",
+    "variantlar": [
+      "Sheet — bu ishchi varaq, ya’ni fayl ichidagi alohida sahifa. Har bir faylda bir nechta sheet bo‘lishi mumkin.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Sheet — bu ishchi varaq, ya’ni fayl ichidagi alohida sahifa. Har bir faylda bir nechta sheet bo‘lishi mumkin."
+  },
+  {
+    "savol": "Excelda ustun yoki qatorni yashirish qayerdan amalga oshiriladi?",
+    "variantlar": [
+      "Ustun yoki qator ustida sichqonchaning o‘ng tugmasini bosib, Hide opsiyasini tanlash orqali amalga oshiriladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi."
+    ],
+    "javob": "Ustun yoki qator ustida sichqonchaning o‘ng tugmasini bosib, Hide opsiyasini tanlash orqali amalga oshiriladi."
+  },
+  {
+    "savol": "Excelda ustunlar qanday belgilanadi?",
+    "variantlar": [
+      "Ustunlar A, B, C, ... harflar bilan, qatorlar esa 1, 2, 3, ... raqamlar bilan belgilanadi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi."
+    ],
+    "javob": "Ustunlar A, B, C, ... harflar bilan, qatorlar esa 1, 2, 3, ... raqamlar bilan belgilanadi."
+  },
+  {
+    "savol": "Fayl tizimining vazifasi nima?",
+    "variantlar": [
+      "Fayl tizimi — bu ma’lumotlarni saqlash va tashkil qilish usuli, ya’ni kompyuter fayllarni qanday nomlaydi, saqlaydi va qidiradi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Grafik kartaning ichki xotirasini boshqaruvchi mikrosxemalar majmuasi sifatida ishlatiladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi."
+    ],
+    "javob": "Fayl tizimi — bu ma’lumotlarni saqlash va tashkil qilish usuli, ya’ni kompyuter fayllarni qanday nomlaydi, saqlaydi va qidiradi."
+  },
+  {
+    "savol": "Google Docs dasturining vazifasi:",
+    "variantlar": [
+      "Google Docs — bu matnli hujjatlar yaratish, tahrirlash va boshqalar bilan birgalikda ishlash imkonini beruvchi onlayn ofis dasturi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Bulutli xizmatlar orqali fayllarni boshqa foydalanuvchilar bilan almashish imkonini beradi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi."
+    ],
+    "javob": "Google Docs — bu matnli hujjatlar yaratish, tahrirlash va boshqalar bilan birgalikda ishlash imkonini beruvchi onlayn ofis dasturi."
+  },
+  {
+    "savol": "Google Drive qanday xizmat?",
+    "variantlar": [
+      "Google Drive — bu bulutli fayl saqlash xizmati bo‘lib, hujjatlar, rasmlar, videolarni internetda saqlash va ulashish imkonini beradi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi."
+    ],
+    "javob": "Google Drive — bu bulutli fayl saqlash xizmati bo‘lib, hujjatlar, rasmlar, videolarni internetda saqlash va ulashish imkonini beradi."
+  },
+  {
+    "savol": "Google Sheets dasturining vazifasi nima?",
+    "variantlar": [
+      "Google Sheets — bu onlayn elektron jadval dasturi bo‘lib, ma’lumotlarni hisoblash, tahlil qilish va ulashishga imkon beradi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi.",
+      "Kompyuterning apparat qismlarini boshqaruvchi maxsus dasturiy ta’minot sifatida ishlatiladi.",
+      "Kompyuter monitori foydalanuvchiga tasvirlar, matnlar va natijalarni ko‘rsatish uchun xizmat qiladi."
+    ],
+    "javob": "Google Sheets — bu onlayn elektron jadval dasturi bo‘lib, ma’lumotlarni hisoblash, tahlil qilish va ulashishga imkon beradi."
+  },
+  {
+    "savol": "Google Slides dasturi nima uchun ishlatiladi?",
+    "variantlar": [
+      "Google Slides — bu onlayn taqdimot dasturi bo‘lib, slaydlar yaratish, tahrirlash va boshqalar bilan ulashish imkonini beradi.",
+      "Kompyuterning asosiy doimiy xotirasi bo‘lib, elektr o‘chsa ham barcha ma’lumotlarni saqlab qoladi.",
+      "Elektron pochta orqali matn va fayl yuborish imkonini beruvchi xizmat sifatida ishlatiladi.",
+      "Excelda matematik formulalarni avtomatik hisoblash uchun xizmat qiladi."
+    ],
+    "javob": "Google Slides — bu onlayn taqdimot dasturi bo‘lib, slaydlar yaratish, tahrirlash va boshqalar bilan ulashish imkonini beradi."
+  },
+  {
+    "savol": "PowerPointda animatsiya nima uchun kerak?",
+    "variantlar": [
+      "Animatsiya — slayd elementlariga harakat, e’tibor jalb qilish yoki vizual effektlar berish uchun ishlatiladi.",
+      "Animatsiya — kompyuterni yoqish va o‘chirish jarayonini boshqaradigan tizim dasturi sifatida ishlatiladi.",
+      "Animatsiya — Word hujjatlarida matnni qalin, kursiv yoki ostiga chizish kabi shrift effektlarini berish uchun qo‘llaniladi.",
+      "Animatsiya — Excelda ustun va qatorlar orasida avtomatik hisob-kitoblarni bajarish uchun qo‘llaniladigan funksiya."
+    ],
+    "javob": "Animatsiya — slayd elementlariga harakat, e’tibor jalb qilish yoki vizual effektlar berish uchun ishlatiladi."
+  },
+  {
+    "savol": "PowerPointda hyperlink qanday qo‘shiladi?",
+    "variantlar": [
+      "Hyperlink — “Insert” menyusidagi “Link” (yoki “Hyperlink”) orqali havola qo‘shiladi.",
+      "Hyperlink — Excelda avtomatik summani hisoblash uchun ishlatiladigan ∑ tugmasi orqali kiritiladi.",
+      "Hyperlink — kompyuterning asosiy xotirasini doimiy saqlash uchun ishlatiladigan qattiq diskka joylashtiriladi.",
+      "Hyperlink — printer sozlamalari bo‘limida hujjatni parol bilan himoyalash uchun ishlatiladigan bo‘lim orqali qo‘shiladi."
+    ],
+    "javob": "Hyperlink — “Insert” menyusidagi “Link” (yoki “Hyperlink”) orqali havola qo‘shiladi."
+  },
+  {
+    "savol": "PowerPointda rasmni slaydga qanday qo‘shiladi?",
+    "variantlar": [
+      "Rasm — “Insert” menyusidagi “Pictures” tugmasi orqali tanlab joylashtiriladi.",
+      "Rasm — “Design” menyusidagi sahifa maketini tanlash orqali kiritiladi.",
+      "Rasm — Excelda formulalar menyusidagi maxsus funksiyalar yordamida qo‘shiladi.",
+      "Rasm — operatsion tizim yuklanishi paytida BIOS menyusida avtomatik qo‘shiladi."
+    ],
+    "javob": "Rasm — “Insert” menyusidagi “Pictures” tugmasi orqali tanlab joylashtiriladi."
+  },
+  {
+    "savol": "PowerPointda slaydlar orasida avtomatik o‘tish qayerda sozlanadi?",
+    "variantlar": [
+      "Avtomatik o‘tish — “Transitions” menyusida “After” belgilanib vaqt ko‘rsatiladi.",
+      "Avtomatik o‘tish — “File” menyusidagi “Save As” bo‘limidan tanlanadi.",
+      "Avtomatik o‘tish — Word dasturida matn ustunlarini ikki qismga ajratish orqali amalga oshiriladi.",
+      "Avtomatik o‘tish — Excel jadvalida Diagram qo‘shish bo‘limidan sozlanadi."
+    ],
+    "javob": "Avtomatik o‘tish — “Transitions” menyusida “After” belgilanib vaqt ko‘rsatiladi."
+  },
+  {
+    "savol": "PowerPointdagi har bir sahifa nima deb ataladi?",
+    "variantlar": [
+      "Har bir sahifa — Slayd deb ataladi.",
+      "Har bir sahifa — Word hujjatida matn ustuni deb ataladi.",
+      "Har bir sahifa — Excel jadvalida qator va ustunlar majmuasi deb ataladi.",
+      "Har bir sahifa — kompyuterning doimiy xotirasida saqlanadigan fayl bo‘lagi sifatida qaraladi."
+    ],
+    "javob": "Har bir sahifa — Slayd deb ataladi."
+  },
+  {
+    "savol": "Printer qaysi turga kiradi?",
+    "variantlar": [
+      "Printer — chiqish qurilmasi (Output device) turiga kiradi.",
+      "Printer — kiritish qurilmasi bo‘lib, matn va grafikani kompyuterga kiritadi.",
+      "Printer — doimiy xotira vazifasini bajarib, barcha fayllarni uzoq muddatli saqlaydi.",
+      "Printer — kompyuterning ichki dasturiy ta’minotini boshqaruvchi maxsus modul hisoblanadi."
+    ],
+    "javob": "Printer — chiqish qurilmasi (Output device) turiga kiradi."
+  },
+  {
+    "savol": "PSU (Power Supply Unit) qaysi vazifani bajaradi?",
+    "variantlar": [
+      "PSU — elektr toki manbai bo‘lib, kompyuter qismlarini kerakli quvvat bilan ta’minlaydi.",
+      "PSU — slayd dizaynlarini avtomatik sozlash va qo‘shish uchun ishlatiladi.",
+      "PSU — internet orqali xavfsiz ulanishingiz uchun VPN funksiyasini bajaradi.",
+      "PSU — Word hujjatlarida matnga avtomatik raqam qo‘shish uchun xizmat qiladi."
+    ],
+    "javob": "PSU — elektr toki manbai bo‘lib, kompyuter qismlarini kerakli quvvat bilan ta’minlaydi."
+  },
+  {
+    "savol": "Qanday funksiyalar asosiy matematik hisob-kitoblar uchun ishlatiladi?",
+    "variantlar": [
+      "Excelda SUM, AVERAGE, MIN, MAX, COUNT, ROUND, IF va hokazo funksiyalar ishlatiladi.",
+      "Wordda Bold, Italic, Underline funksiyalari asosiy hisob-kitoblar uchun ishlatiladi.",
+      "PowerPointda Animatsiya funksiyasi asosiy matematik hisob-kitoblarni bajaradi.",
+      "BIOS menyusida qurilma drayverlari asosiy matematik funksiyalarni amalga oshiradi."
+    ],
+    "javob": "Excelda SUM, AVERAGE, MIN, MAX, COUNT, ROUND, IF va hokazo funksiyalar ishlatiladi."
+  },
+  {
+    "savol": "Qanday qilib hujjatni parol bilan himoyalash mumkin?",
+    "variantlar": [
+      "Wordda “File” → “Info” → “Protect Document” → “Encrypt with Password” orqali parol qo‘yiladi.",
+      "Excelda “Insert” → “Chart” bo‘limidan foydalanib, himoya o‘rnatiladi.",
+      "PowerPointda “Design” bo‘limidan fon tanlash orqali parol qo‘yiladi.",
+      "Kompyuter BIOS sozlamalari orqali hujjatni parol bilan himoyalash amalga oshiriladi."
+    ],
+    "javob": "Wordda “File” → “Info” → “Protect Document” → “Encrypt with Password” orqali parol qo‘yiladi."
+  },
+  {
+    "savol": "Qanday tugma yordamida taqdimotni ishga tushirish mumkin?",
+    "variantlar": [
+      "F5 tugmasi taqdimotni boshidan ishga tushiradi.",
+      "Ctrl + P tugmasi taqdimotni ishga tushirish uchun ishlatiladi.",
+      "Alt + Tab tugmasi taqdimotni yangi hujjat yaratish orqali ishga tushiradi.",
+      "Delete tugmasi taqdimotni avtomatik ravishda ishga tushiradi."
+    ],
+    "javob": "F5 tugmasi taqdimotni boshidan ishga tushiradi."
+  },
+  {
+    "savol": "Qattiq disk nima vazifani bajaradi?",
+    "variantlar": [
+      "Qattiq disk — ma’lumotlarni doimiy saqlovchi qurilma. Fayllar, dasturlar va operatsion tizim shu yerda saqlanadi.",
+      "Qattiq disk — vaqtinchalik xotira bo‘lib, elektr o‘chganda ham ma’lumotlar o‘chib ketadi.",
+      "Qattiq disk — internetga ulanib ma’lumot almashish imkonini beradigan qurilma sifatida ishlatiladi.",
+      "Qattiq disk — printer orqali chiqariladigan barcha fayllarni avtomatik boshqaradi."
+    ],
+    "javob": "Qattiq disk — ma’lumotlarni doimiy saqlovchi qurilma. Fayllar, dasturlar va operatsion tizim shu yerda saqlanadi."
+  },
+  {
+    "savol": "Qaysi menyuda ‘Bold’, ‘Italic’, ‘Underline’ opsiyalari mavjud?",
+    "variantlar": [
+      "Ular Word dasturida “Home” menyusidagi “Font” guruhida mavjud.",
+      "Ular PowerPoint dasturida “Design” menyusida mavjud.",
+      "Ular Excel dasturida “Insert” menyusidagi “Chart” bo‘limida mavjud.",
+      "Ular BIOS menyusida kompyuter qurilmalarini sinovdan o‘tkazishda qo‘llaniladi."
+    ],
+    "javob": "Ular Word dasturida “Home” menyusidagi “Font” guruhida mavjud."
+  },
+  {
+    "savol": "Qaysi menyuda slayd dizayni tanlanadi?",
+    "variantlar": [
+      "PowerPointda “Design” menyusida slayd dizayni tanlanadi.",
+      "Excelda “Formulas” menyusida slayd dizayni tanlanadi.",
+      "Wordda “Insert” menyusida slayd dizayni tanlanadi.",
+      "BIOS sozlamalarida slayd dizayni tanlanadi."
+    ],
+    "javob": "PowerPointda “Design” menyusida slayd dizayni tanlanadi."
+  },
+  {
+    "savol": "Qaysi menyudan grafikka kirmoq mumkin?",
+    "variantlar": [
+      "Excel va Wordda “Insert” menyusidagi “Chart” (yoki “Diagram”) orqali kiritiladi.",
+      "PowerPointda “Animations” bo‘limidan grafikka kirish mumkin.",
+      "Wordda “Layout” menyusidan grafikka kirmoq mumkin.",
+      "BIOS sozlamalaridan grafikka kirmoq mumkin."
+    ],
+    "javob": "Excel va Wordda “Insert” menyusidagi “Chart” (yoki “Diagram”) orqali kiritiladi."
+  },
+  {
+    "savol": "Qaysi protokol veb sahifalarni yuklash uchun ishlatiladi?",
+    "variantlar": [
+      "HTTP va HTTPS — veb sahifalarni yuklash uchun ishlatiladi.",
+      "SMTP — elektron pochta yuborish uchun ishlatiladi.",
+      "FTP — fayllarni serverga yuklash uchun ishlatiladi.",
+      "IPX/SPX — eski tarmoqlarda paket uzatish uchun ishlatiladi."
+    ],
+    "javob": "HTTP va HTTPS — veb sahifalarni yuklash uchun ishlatiladi."
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri kiritish qurilmasi?",
+    "variantlar": [
+      "Klaviatura, sichqoncha, skanner — kiritish qurilmalari hisoblanadi.",
+      "Printer va monitor — kiritish qurilmalari hisoblanadi.",
+      "Qattiq disk va SSD — kiritish qurilmalari hisoblanadi.",
+      "BIOS va operatsion tizim — kiritish qurilmalari hisoblanadi."
+    ],
+    "javob": "Klaviatura, sichqoncha, skanner — kiritish qurilmalari hisoblanadi."
+  },
+  {
+    "savol": "Quyidagilardan qaysi biri operatsion tizim hisoblanadi?",
+    "variantlar": [
+      "Windows, Linux, Android, macOS — operatsion tizimlar hisoblanadi.",
+      "Google Chrome, Firefox, Edge — operatsion tizimlar hisoblanadi.",
+      "MS Word, Excel, PowerPoint — operatsion tizimlar hisoblanadi.",
+      "BIOS va drayverlar — operatsion tizimlar hisoblanadi."
+    ],
+    "javob": "Windows, Linux, Android, macOS — operatsion tizimlar hisoblanadi."
+  },
+  {
+    "savol": "Quyidagi qurilmalarning qaysi biri yordamida Internetga ulanish mumkin?",
+    "variantlar": [
+      "Wi-Fi router, modem, mobil telefon, LAN kartasi yordamida internetga ulaniladi.",
+      "Printer, skanner, monitor yordamida internetga ulaniladi.",
+      "USB fleshka, CD/DVD disk yordamida internetga ulaniladi.",
+      "BIOS va qattiq disk yordamida internetga ulaniladi."
+    ],
+    "javob": "Wi-Fi router, modem, mobil telefon, LAN kartasi yordamida internetga ulaniladi."
+  },
+  {
+    "savol": "Real-time OS qanday tizim?",
+    "variantlar": [
+      "Real-time OS — vaqtga bog‘liq vazifalarni real vaqtda bajaradigan operatsion tizim, masalan avtomobil boshqaruvi, tibbiy asboblar.",
+      "Real-time OS — internet orqali xabar almashish uchun yaratilgan tizim.",
+      "Real-time OS — matnni qayta ishlash uchun yaratilgan dasturiy ta’minot.",
+      "Real-time OS — grafik ishlov berish uchun yaratilgan dasturiy tizim."
+    ],
+    "javob": "Real-time OS — vaqtga bog‘liq vazifalarni real vaqtda bajaradigan operatsion tizim, masalan avtomobil boshqaruvi, tibbiy asboblar."
+  },
+  {
+    "savol": "Sahifa raqamini qanday qo‘shish mumkin?",
+    "variantlar": [
+      "Wordda “Insert” → “Page Number” → kerakli joyni tanlash orqali sahifa raqami qo‘shiladi.",
+      "Excelda “Formulas” menyusidan sahifa raqami qo‘shiladi.",
+      "PowerPointda “Design” menyusidan sahifa raqami qo‘shiladi.",
+      "BIOS menyusidan sahifa raqami qo‘shiladi."
+    ],
+    "javob": "Wordda “Insert” → “Page Number” → kerakli joyni tanlash orqali sahifa raqami qo‘shiladi."
+  },
+  {
+    "savol": "Sichqoncha qaysi qurilmalar toifasiga kiradi?",
+    "variantlar": [
+      "Sichqoncha — kiritish qurilmasi (Input device) hisoblanadi.",
+      "Sichqoncha — chiqish qurilmasi bo‘lib, monitor kabi tasvirlarni chiqaradi.",
+      "Sichqoncha — ma’lumotlarni doimiy saqlash uchun qo‘llaniladigan qurilma sifatida ishlatiladi.",
+      "Sichqoncha — internetga ulanish uchun asosiy apparat qurilma sifatida ishlatiladi."
+    ],
+    "javob": "Sichqoncha — kiritish qurilmasi (Input device) hisoblanadi."
+  },
+  {
+    "savol": "Skanner nima?",
+    "variantlar": [
+      "Skanner — rasm yoki hujjatni kompyuterga raqamli ko‘rinishda kirituvchi qurilma.",
+      "Skanner — ma’lumotlarni doimiy saqlash uchun ishlatiladigan qattiq disk vazifasini bajaradi.",
+      "Skanner — matnli hujjatlarni avtomatik tahrirlash uchun dasturiy ta’minot sifatida ishlatiladi.",
+      "Skanner — internetga ulanish va ma’lumot uzatish uchun mo‘ljallangan modem vazifasini bajaradi."
+    ],
+    "javob": "Skanner — rasm yoki hujjatni kompyuterga raqamli ko‘rinishda kirituvchi qurilma."
+  },
+  {
+    "savol": "Slaydga matn qanday qo‘shiladi?",
+    "variantlar": [
+      "PowerPointda “Insert” → “Text Box” orqali matn kiritiladi.",
+      "Excelda “Formulas” → “Insert Function” orqali matn qo‘shiladi.",
+      "Wordda “Layout” bo‘limidan ustunlar qo‘shib matn kiritiladi.",
+      "BIOS menyusida qurilma sozlamalarini tahrirlash orqali matn qo‘shiladi."
+    ],
+    "javob": "PowerPointda “Insert” → “Text Box” orqali matn kiritiladi."
+  },
+  {
+    "savol": "Slide Master nima uchun ishlatiladi?",
+    "variantlar": [
+      "Slide Master — barcha slaydlarga yagona dizayn, shrift, fon va tartib berish uchun ishlatiladi.",
+      "Slide Master — Word hujjatlarida parol qo‘yish uchun qo‘llaniladi.",
+      "Slide Master — Excelda matematik formulalarni avtomatik hisoblash uchun ishlatiladi.",
+      "Slide Master — internetga ulanish tezligini oshirish uchun ishlatiladi."
+    ],
+    "javob": "Slide Master — barcha slaydlarga yagona dizayn, shrift, fon va tartib berish uchun ishlatiladi."
+  },
+  {
+    "savol": "SSD (Solid State Drive) qaysi asosiy xususiyatga ega?",
+    "variantlar": [
+      "SSD — tez ishlash, jimlik, past energiya sarfi bilan HDDga nisbatan ancha yuqori tezlikda ishlaydi.",
+      "SSD — slaydlarga animatsiya effektlarini qo‘shish uchun ishlatiladi.",
+      "SSD — internet orqali fayllarni bulutda saqlash uchun yaratilgan xizmat.",
+      "SSD — printerning ishlash jarayonini nazorat qilish uchun asosiy qurilma."
+    ],
+    "javob": "SSD — tez ishlash, jimlik, past energiya sarfi bilan HDDga nisbatan ancha yuqori tezlikda ishlaydi."
+  },
+  {
+    "savol": "Transition nima vazifa bajaradi?",
+    "variantlar": [
+      "Transition — slaydlar o‘rtasidagi o‘tish effektini ta’minlaydi (siljish, so‘nish, aylanma o‘tish va boshqalar).",
+      "Transition — Word hujjatlarida matnni qalin qilib yozish uchun xizmat qiladi.",
+      "Transition — Excel jadvalida ustunlarni avtomatik tartiblash uchun ishlatiladi.",
+      "Transition — BIOS orqali kompyuter qurilmalarini test qilish uchun ishlatiladi."
+    ],
+    "javob": "Transition — slaydlar o‘rtasidagi o‘tish effektini ta’minlaydi (siljish, so‘nish, aylanma o‘tish va boshqalar)."
+  },
+  {
+    "savol": "URL nima?",
+    "variantlar": [
+      "URL — Uniform Resource Locator, veb manzil bo‘lib, saytning Internetdagi aniq joylashuvini bildiradi.",
+      "URL — kompyuterning ichki xotirasida ma’lumotlarni vaqtincha saqlash texnologiyasi.",
+      "URL — elektron pochta orqali xabarlarni uzatish protokoli.",
+      "URL — fayllarni serverga yuklash uchun ishlatiladigan protokol."
+    ],
+    "javob": "URL — Uniform Resource Locator, veb manzil bo‘lib, saytning Internetdagi aniq joylashuvini bildiradi."
+  },
+  {
+    "savol": "USB 3.0 standarti maksimal qanday ma’lumot uzatish tezligini ta’minlaydi?",
+    "variantlar": [
+      "USB 3.0 — maksimal 5 Gbps tezlikda ma’lumot uzatishni ta’minlaydi.",
+      "USB 3.0 — maksimal 500 Kbps tezlikda ma’lumot uzatishni ta’minlaydi.",
+      "USB 3.0 — maksimal 100 Mbps tezlikda ma’lumot uzatishni ta’minlaydi.",
+      "USB 3.0 — maksimal 1 Tbps tezlikda ma’lumot uzatishni ta’minlaydi."
+    ],
+    "javob": "USB 3.0 — maksimal 5 Gbps tezlikda ma’lumot uzatishni ta’minlaydi."
+  },
+  {
+    "savol": "Veb-brauzer vazifasi nima?",
+    "variantlar": [
+      "Veb-brauzer — Internetdagi veb-sahifalarni ko‘rsatish, yuklash va ularga ishlov berish uchun ishlatiladi.",
+      "Veb-brauzer — kompyuter qurilmalarini elektr toki bilan ta’minlaydi.",
+      "Veb-brauzer — operatsion tizimni qattiq diskka o‘rnatish uchun ishlatiladi.",
+      "Veb-brauzer — printerdan hujjatlarni chop etish uchun maxsus dastur sifatida ishlatiladi."
+    ],
+    "javob": "Veb-brauzer — Internetdagi veb-sahifalarni ko‘rsatish, yuklash va ularga ishlov berish uchun ishlatiladi."
+  },
+  {
+    "savol": "Virtual xotira nima?",
+    "variantlar": [
+      "Virtual xotira — RAM yetmaganda qattiq diskning bir qismini vaqtincha xotira sifatida ishlatish texnologiyasi.",
+      "Virtual xotira — internet orqali fayllarni bulutda saqlash texnologiyasi.",
+      "Virtual xotira — printer orqali hujjatlarni avtomatik chiqarish usuli.",
+      "Virtual xotira — kompyuterning barcha qurilmalarini elektr toki bilan ta’minlaydigan blok."
+    ],
+    "javob": "Virtual xotira — RAM yetmaganda qattiq diskning bir qismini vaqtincha xotira sifatida ishlatish texnologiyasi."
+  },
+  {
+    "savol": "VLOOKUP funksiyasi nima uchun ishlatiladi?",
+    "variantlar": [
+      "VLOOKUP — Excelda vertikal bo‘ylab qidiruv bajarish, jadvalning chap ustunidan qiymatni topib, unga mos qiymatni chiqaradi.",
+      "VLOOKUP — Word hujjatida matnni qalin qilish uchun ishlatiladi.",
+      "VLOOKUP — PowerPointda slaydga animatsiya qo‘shish uchun xizmat qiladi.",
+      "VLOOKUP — kompyuter qurilmalarining drayverlarini yangilash uchun ishlatiladi."
+    ],
+    "javob": "VLOOKUP — Excelda vertikal bo‘ylab qidiruv bajarish, jadvalning chap ustunidan qiymatni topib, unga mos qiymatni chiqaradi."
+  },
+  {
+    "savol": "VPN texnologiyasi qanday maqsadda ishlatiladi?",
+    "variantlar": [
+      "VPN — Virtual Private Network, shaxsiy va xavfsiz tarmoq orqali internetga ulanib, ma’lumotlarni shifrlangan holda uzatishni ta’minlaydi.",
+      "VPN — matnni avtomatik tarjima qilish texnologiyasi.",
+      "VPN — slaydlarni avtomatik ravishda tartiblash funksiyasi.",
+      "VPN — operatsion tizimni o‘rnatish jarayonini tezlashtiradigan texnologiya."
+    ],
+    "javob": "VPN — Virtual Private Network, shaxsiy va xavfsiz tarmoq orqali internetga ulanib, ma’lumotlarni shifrlangan holda uzatishni ta’minlaydi."
+  },
+  {
+    "savol": "Wi-Fi nima?",
+    "variantlar": [
+      "Wi-Fi — simsiz internetga ulanish texnologiyasi bo‘lib, kompyuter, telefon va boshqa qurilmalarga internet beradi.",
+      "Wi-Fi — ma’lumotlarni qattiq diskda saqlash uchun ishlatiladigan texnologiya.",
+      "Wi-Fi — hujjatlarni printer orqali chiqarish texnologiyasi.",
+      "Wi-Fi — Excelda jadval ustunlarini avtomatik hisoblash texnologiyasi."
+    ],
+    "javob": "Wi-Fi — simsiz internetga ulanish texnologiyasi bo‘lib, kompyuter, telefon va boshqa qurilmalarga internet beradi."
+  },
+  {
+    "savol": "Word dasturida yangi hujjat qanday yaratiladi?",
+    "variantlar": [
+      "Wordda “File” → “New” → “Blank Document” orqali yoki Ctrl + N tugmalari yordamida yangi hujjat yaratiladi.",
+      "Wordda “Insert” → “Picture” orqali yangi hujjat yaratiladi.",
+      "Wordda “Layout” → “Columns” orqali yangi hujjat yaratiladi.",
+      "Wordda “Review” → “Track Changes” orqali yangi hujjat yaratiladi."
+    ],
+    "javob": "Wordda “File” → “New” → “Blank Document” orqali yoki Ctrl + N tugmalari yordamida yangi hujjat yaratiladi."
+  },
+  {
+    "savol": "Word faylining kengaytmasi qanday bo‘ladi?",
+    "variantlar": [
+      ".docx (yangi versiya) yoki .doc (eski versiya).",
+      ".pptx yoki .ppt",
+      ".xlsx yoki .xls",
+      ".pdf"
+    ],
+    "javob": ".docx (yangi versiya) yoki .doc (eski versiya)."
+  },
+  {
+    "savol": "Word hujjatini qanday chop etiladi?",
+    "variantlar": [
+      "Wordda “File” → “Print” menyusi orqali yoki Ctrl + P tugmalari yordamida chop etiladi.",
+      "Wordda “Insert” → “Table” orqali chop etiladi.",
+      "Wordda “Layout” → “Margins” orqali chop etiladi.",
+      "Wordda “Design” → “Themes” orqali chop etiladi."
+    ],
+    "javob": "Wordda “File” → “Print” menyusi orqali yoki Ctrl + P tugmalari yordamida chop etiladi."
+  },
+  {
+    "savol": "Wordda ‘Header’ va ‘Footer’ nima?",
+    "variantlar": [
+      "Header — sahifa yuqori qismi, Footer — sahifa pastki qismi bo‘lib, sarlavha, sahifa raqami va muallif ismi joylashtiriladi.",
+      "Header va Footer — jadvaldagi ustun va qatorlarni avtomatik to‘ldirish funksiyasi.",
+      "Header va Footer — kompyuter xotirasida vaqtinchalik saqlanadigan fayllar guruhi.",
+      "Header va Footer — internetga ulanish uchun kerak bo‘ladigan apparat vositalari."
+    ],
+    "javob": "Header — sahifa yuqori qismi, Footer — sahifa pastki qismi bo‘lib, sarlavha, sahifa raqami va muallif ismi joylashtiriladi."
+  },
+  {
+    "savol": "Wordda ‘Track Changes’ funksiyasi nimani anglatadi?",
+    "variantlar": [
+      "Track Changes — matnda qilingan o‘zgarishlarni kuzatib borish va tahrirlarni ko‘rsatish funksiyasi.",
+      "Track Changes — jadvalda formulalarni avtomatik hisoblash funksiyasi.",
+      "Track Changes — printer sozlamalarini boshqarish funksiyasi.",
+      "Track Changes — internet tezligini oshirish funksiyasi."
+    ],
+    "javob": "Track Changes — matnda qilingan o‘zgarishlarni kuzatib borish va tahrirlarni ko‘rsatish funksiyasi."
+  },
+  {
+    "savol": "Wordda fayl kengaytmasi qanday?",
+    "variantlar": [
+      ".docx",
+      ".pptx",
+      ".xlsx",
+      ".txt"
+    ],
+    "javob": ".docx"
+  },
+  {
+    "savol": "Wordda havolani (Hyperlink) qanday qo‘shiladi?",
+    "variantlar": [
+      "Wordda “Insert” → “Link” (yoki Hyperlink) orqali havola qo‘shiladi.",
+      "Wordda “Design” → “Themes” orqali havola qo‘shiladi.",
+      "Wordda “Layout” → “Columns” orqali havola qo‘shiladi.",
+      "Wordda “Review” → “Spelling & Grammar” orqali havola qo‘shiladi."
+    ],
+    "javob": "Wordda “Insert” → “Link” (yoki Hyperlink) orqali havola qo‘shiladi."
+  },
+   {
+    "savol": "Wordda hujjatga rasmni qanday qo‘shiladi?",
+    "variantlar": [
+      "“Insert” → “Picture” → fayl tanlanadi va qo‘shiladi.",
+      "“Layout” → “Margins” orqali rasm qo‘shiladi.",
+      "“Design” → “Themes” orqali rasm qo‘shiladi.",
+      "“Review” → “Track Changes” orqali rasm qo‘shiladi."
+    ],
+    "javob": "“Insert” → “Picture” → fayl tanlanadi va qo‘shiladi."
+  },
+  {
+    "savol": "Wordda jadval (table) qanday qo‘shiladi?",
+    "variantlar": [
+      "“Insert” → “Table” → kerakli kataklar tanlanadi.",
+      "“File” → “Print” orqali jadval qo‘shiladi.",
+      "“Design” → “Page Color” orqali jadval qo‘shiladi.",
+      "“Layout” → “Orientation” orqali jadval qo‘shiladi."
+    ],
+    "javob": "“Insert” → “Table” → kerakli kataklar tanlanadi."
+  },
+  {
+    "savol": "Wordda matnga avtomatik raqamlash qayerdan beriladi?",
+    "variantlar": [
+      "“Home” → “Numbering” tugmasi orqali beriladi.",
+      "“Insert” → “Picture” orqali beriladi.",
+      "“Layout” → “Columns” orqali beriladi.",
+      "“Design” → “Themes” orqali beriladi."
+    ],
+    "javob": "“Home” → “Numbering” tugmasi orqali beriladi."
+  },
+  {
+    "savol": "Wordda matnni ikki ustunga qanday ajratish mumkin?",
+    "variantlar": [
+      "“Layout” yoki “Page Layout” → “Columns” → “Two” tanlanadi.",
+      "“Insert” → “Chart” orqali ikki ustunga ajratiladi.",
+      "“Design” → “Page Borders” orqali ikki ustunga ajratiladi.",
+      "“Review” → “Spelling & Grammar” orqali ikki ustunga ajratiladi."
+    ],
+    "javob": "“Layout” yoki “Page Layout” → “Columns” → “Two” tanlanadi."
+  },
+  {
+    "savol": "Wordda matnni qalin qilish uchun qaysi tugma ishlatiladi?",
+    "variantlar": [
+      "Ctrl + B yoki “Home” → “Bold” tugmasi.",
+      "Ctrl + I yoki “Home” → “Italic” tugmasi.",
+      "Ctrl + U yoki “Home” → “Underline” tugmasi.",
+      "Ctrl + P yoki “File” → “Print” tugmasi."
+    ],
+    "javob": "Ctrl + B yoki “Home” → “Bold” tugmasi."
+  },
+  {
+    "savol": "Wordda shakllar (Shapes) bilan ishlash imkoniyati qayerda?",
+    "variantlar": [
+      "“Insert” → “Shapes” menyusi orqali.",
+      "“Design” → “Themes” menyusi orqali.",
+      "“Layout” → “Margins” menyusi orqali.",
+      "“Review” → “Language” menyusi orqali."
+    ],
+    "javob": "“Insert” → “Shapes” menyusi orqali."
+  },
+  {
+    "savol": "Wordda shrift (font) o‘lchami qayerdan sozlanadi?",
+    "variantlar": [
+      "“Home” → Font o‘lchami menyusidan (masalan, 11, 12, 14).",
+      "“Insert” → “Table” bo‘limidan.",
+      "“Layout” → “Page Setup” bo‘limidan.",
+      "“Design” → “Colors” bo‘limidan."
+    ],
+    "javob": "“Home” → Font o‘lchami menyusidan (masalan, 11, 12, 14)."
+  },
+  {
+    "savol": "YouTube qanday platforma?",
+    "variantlar": [
+      "YouTube — bu video joylash, tomosha qilish, ulashish va jonli efirga chiqish imkonini beruvchi onlayn video platforma.",
+      "YouTube — matn hujjatlarini tahrirlash va chop etish uchun mo‘ljallangan dastur.",
+      "YouTube — kompyuter qurilmalariga elektr toki yetkazib beruvchi qurilma.",
+      "YouTube — internet tezligini oshirish va xavfsiz ulanishni ta’minlovchi maxsus protokol."
+    ],
+    "javob": "YouTube — bu video joylash, tomosha qilish, ulashish va jonli efirga chiqish imkonini beruvchi onlayn video platforma."
+  },
+  {
+    "savol": "Google Docs dasturining vazifasi nima?",
+    "variantlar": [
+      "Google Docs — bu matnli hujjatlar yaratish, tahrirlash va boshqalar bilan birgalikda ishlash imkonini beruvchi onlayn ofis dasturi.",
+      "Google Docs — bu kompyuter qurilmalarini elektr toki bilan ta’minlovchi apparat qurilma.",
+      "Google Docs — bu grafikalarni qayta ishlash uchun maxsus drayver dasturi.",
+      "Google Docs — bu faqat internet tezligini oshirish uchun mo‘ljallangan servis."
+    ],
+    "javob": "Google Docs — bu matnli hujjatlar yaratish, tahrirlash va boshqalar bilan birgalikda ishlash imkonini beruvchi onlayn ofis dasturi."
+  },
+  {
+    "savol": "Google Docs qanday turdagi fayllarni qo‘llab-quvvatlaydi?",
+    "variantlar": [
+      ".docx, .odt, .pdf, .txt va boshqalar. Shuningdek, Word fayllarini ochish va saqlash imkonini beradi.",
+      ".jpg, .png, .gif va faqat rasm formatlarini qo‘llab-quvvatlaydi.",
+      ".mp3 va .wav kabi faqat audio fayllarni ochadi.",
+      ".exe va .bat kabi bajariladigan fayllarni qo‘llab-quvvatlaydi."
+    ],
+    "javob": ".docx, .odt, .pdf, .txt va boshqalar. Shuningdek, Word fayllarini ochish va saqlash imkonini beradi."
+  },
+  {
+    "savol": "Google Docs qayerda ishlaydi?",
+    "variantlar": [
+      "Google Docs brauzer orqali internetda, ya’ni bulutda (cloud) ishlaydi.",
+      "Google Docs faqat kompyuterning qattiq diskida lokal dastur sifatida ishlaydi.",
+      "Google Docs faqat mobil telefonlarda oflayn ishlaydi.",
+      "Google Docs BIOS orqali ishga tushadi va qurilma sozlamalarini boshqaradi."
+    ],
+    "javob": "Google Docs brauzer orqali internetda, ya’ni bulutda (cloud) ishlaydi."
+  },
+  {
+    "savol": "Google Drive nima?",
+    "variantlar": [
+      "Google Drive — bu Google tomonidan taqdim etilgan bulutli fayl saqlash xizmati.",
+      "Google Drive — bu kompyuter qurilmalarini boshqaruvchi apparat komponenti.",
+      "Google Drive — bu faqat videolarni tomosha qilish uchun servis.",
+      "Google Drive — bu printerlarni boshqarish uchun dastur."
+    ],
+    "javob": "Google Drive — bu Google tomonidan taqdim etilgan bulutli fayl saqlash xizmati."
+  },
+  {
+    "savol": "Google Drive qanday xizmat turi?",
+    "variantlar": [
+      "Bu SaaS (Software as a Service) turiga kiruvchi bulutli saqlash xizmati.",
+      "Bu IaaS (Infrastructure as a Service) turiga kiruvchi server qurilmasi.",
+      "Bu faqat lokal kompyuter xotirasidan foydalanadigan saqlash usuli.",
+      "Bu faqat printer bilan ishlashni ta’minlaydigan xizmat."
+    ],
+    "javob": "Bu SaaS (Software as a Service) turiga kiruvchi bulutli saqlash xizmati."
+  },
+  {
+    "savol": "Google Drive’da faylni boshqalar bilan qanday ulash mumkin?",
+    "variantlar": [
+      "Fayl ustida sichqoncha o‘ng tugmasini bosib “Share” tugmasini tanlab, foydalanuvchi emailini yozish yoki havola olish orqali.",
+      "Faylni faqat USB fleshkaga ko‘chirib berish orqali ulashish mumkin.",
+      "Faylni BIOS orqali sozlash orqali ulashiladi.",
+      "Faylni faqat printerni sozlash orqali ulashish mumkin."
+    ],
+    "javob": "Fayl ustida sichqoncha o‘ng tugmasini bosib “Share” tugmasini tanlab, foydalanuvchi emailini yozish yoki havola olish orqali."
+  },
+  {
+    "savol": "Google Drive’da faylni o‘chirish uchun nima qilinadi?",
+    "variantlar": [
+      "Faylni tanlab, o‘ng tugmani bosish va “Remove” ni tanlash kifoya.",
+      "Faylni o‘chirish uchun butun Google hisobini yopish kerak.",
+      "Faylni o‘chirish uchun kompyuterni qayta yuklash kerak.",
+      "Faylni o‘chirish uchun uni chop etib qog‘oz ko‘rinishida yo‘qotish kerak."
+    ],
+    "javob": "Faylni tanlab, o‘ng tugmani bosish va “Remove” ni tanlash kifoya."
+  },
+  {
+    "savol": "Google hisobiga ega bo‘lish uchun nima kerak?",
+    "variantlar": [
+      "Internetga ulanib, gmail.com orqali ro‘yxatdan o‘tish (ism, email, parol kiritish) kerak.",
+      "Kompyuter BIOS sozlamalarida yangi foydalanuvchi qo‘shish kerak.",
+      "Faqat mobil telefon orqali SMS yuborish orqali hisob ochiladi.",
+      "Google hisobiga ega bo‘lish uchun faqatgina oflayn dastur kerak."
+    ],
+    "javob": "Internetga ulanib, gmail.com orqali ro‘yxatdan o‘tish (ism, email, parol kiritish) kerak."
+  },
+  {
+    "savol": "GPU (Graphics Processing Unit) ning vazifasi nima?",
+    "variantlar": [
+      "GPU — bu grafiklarni (rasm, video, 3D) tezkor hisoblash uchun mo‘ljallangan protsessor.",
+      "GPU — bu matn hujjatlarini tahrirlash uchun mo‘ljallangan dastur.",
+      "GPU — bu internet tezligini oshirish uchun apparat qurilma.",
+      "GPU — bu printerlarni sozlash uchun ishlatiladigan qurilma."
+    ],
+    "javob": "GPU — bu grafiklarni (rasm, video, 3D) tezkor hisoblash uchun mo‘ljallangan protsessor."
+  },
+  {
+    "savol": "Hujjatni qanday saqlash mumkin?",
+    "variantlar": [
+      "“File” menyusidagi Save yoki Save As orqali, tezkor usul — Ctrl + S tugmalari bilan.",
+      "Hujjatni saqlash faqat BIOS menyusi orqali amalga oshiriladi.",
+      "Hujjatni saqlash uchun uni printerni sozlash orqali chiqarish kerak.",
+      "Hujjatni saqlash uchun uni USB fleshkaga o‘tkazish shart."
+    ],
+    "javob": "“File” menyusidagi Save yoki Save As orqali, tezkor usul — Ctrl + S tugmalari bilan."
+  },
+  {
+    "savol": "Hyper-Threading (Simultaneous Multithreading) texnologiyasi nima uchun mo‘ljallangan?",
+    "variantlar": [
+      "Hyper-Threading — bu bir yadroda bir vaqtning o‘zida ikki ip (thread) ishlashiga imkon beruvchi texnologiya.",
+      "Hyper-Threading — bu qattiq disklarni tezroq aylantirish uchun mo‘ljallangan texnologiya.",
+      "Hyper-Threading — bu internet tezligini oshiruvchi bulutli servis.",
+      "Hyper-Threading — bu printerlarda bir nechta sahifani bir vaqtning o‘zida chiqarish uchun texnologiya."
+    ],
+    "javob": "Hyper-Threading — bu bir yadroda bir vaqtning o‘zida ikki ip (thread) ishlashiga imkon beruvchi texnologiya."
+  },
+  {
+    "savol": "IaaS va PaaS farqi nimada?",
+    "variantlar": [
+      "IaaS — internet orqali serverlar, saqlash joyi va tarmoq infratuzilmasini taqdim etadi. PaaS — dastur yozish va ishga tushirish platformasi beradi.",
+      "IaaS — matnli hujjatlarni chop etish uchun xizmat qiladi. PaaS — hujjatlarga rasmlar qo‘shadi.",
+      "IaaS — grafik kartalarni boshqaradi. PaaS — faqat printer bilan ishlaydi.",
+      "IaaS — audio fayllarni tahrirlaydi. PaaS — video fayllarni kesib beradi."
+    ],
+    "javob": "IaaS — internet orqali serverlar, saqlash joyi va tarmoq infratuzilmasini taqdim etadi. PaaS — dastur yozish va ishga tushirish platformasi beradi."
+  },
+  {
+    "savol": "IF funksiyasi nima qiladi?",
+    "variantlar": [
+      "Exceldagi IF funksiyasi shartga asoslanib natija chiqaradi.",
+      "IF funksiyasi kompyuterni o‘chirib yoqish uchun ishlatiladi.",
+      "IF funksiyasi printer qog‘ozi tugaganini tekshiradi.",
+      "IF funksiyasi internet tezligini oshirish uchun ishlatiladi."
+    ],
+    "javob": "Exceldagi IF funksiyasi shartga asoslanib natija chiqaradi."
+  },
+  {
+    "savol": "INDEX va MATCH funksiyalari qachon ishlatiladi?",
+    "variantlar": [
+      "INDEX qiymatni chiqaradi, MATCH esa joylashuvini aniqlaydi. Ko‘pincha VLOOKUP o‘rniga ishlatiladi.",
+      "INDEX — printerni sozlaydi, MATCH — qog‘oz turini aniqlaydi.",
+      "INDEX — internetga ulanadi, MATCH — tezlikni oshiradi.",
+      "INDEX — BIOS sozlaydi, MATCH — apparatni tekshiradi."
+    ],
+    "javob": "INDEX qiymatni chiqaradi, MATCH esa joylashuvini aniqlaydi. Ko‘pincha VLOOKUP o‘rniga ishlatiladi."
+  },
+  {
+    "savol": "Internet nima?",
+    "variantlar": [
+      "Internet — bu butun dunyo bo‘ylab kompyuterlarni bog‘lovchi global tarmoq.",
+      "Internet — bu faqat matn hujjatlarini saqlovchi lokal dastur.",
+      "Internet — bu printerlarni ulash uchun mo‘ljallangan servis.",
+      "Internet — bu BIOS ichida ishlovchi tizim dasturi."
+    ],
+    "javob": "Internet — bu butun dunyo bo‘ylab kompyuterlarni bog‘lovchi global tarmoq."
+  },
+  {
+    "savol": "Internet orqali fayllarni saqlashning asosiy afzalligi nima?",
+    "variantlar": [
+      "Fayllar istalgan joydan, istalgan qurilmadan kirish imkoniga ega bo‘ladi va yo‘qotish xavfi kamayadi.",
+      "Fayllar faqat bitta kompyuterda saqlanadi va boshqa joydan kira olmaydi.",
+      "Fayllar faqat printer orqali ko‘paytirilib saqlanadi.",
+      "Fayllar BIOS orqali avtomatik o‘chiriladi."
+    ],
+    "javob": "Fayllar istalgan joydan, istalgan qurilmadan kirish imkoniga ega bo‘ladi va yo‘qotish xavfi kamayadi."
+  },
+  {
+    "savol": "Interrupt (uzilish) nima vazifa bajaradi?",
+    "variantlar": [
+      "Interrupt — protsessorga muhim voqea yuz berganini bildiradi va unga darhol e’tibor qaratadi.",
+      "Interrupt — internetga ulanish tezligini nazorat qiladi.",
+      "Interrupt — printerdagi qog‘ozni avtomatik chiqaradi.",
+      "Interrupt — grafik kartani sozlash uchun ishlatiladi."
+    ],
+    "javob": "Interrupt — protsessorga muhim voqea yuz berganini bildiradi va unga darhol e’tibor qaratadi."
+  },
+  {
+    "savol": "Kernel nima?",
+    "variantlar": [
+      "Kernel — operatsion tizimning markaziy qismi, u apparat va dasturiy ta’minot o‘rtasidagi bog‘lovchi.",
+      "Kernel — faqat hujjatlarni saqlash dasturi.",
+      "Kernel — printer drayveri.",
+      "Kernel — grafik karta ichidagi xotira."
+    ],
+    "javob": "Kernel — operatsion tizimning markaziy qismi, u apparat va dasturiy ta’minot o‘rtasidagi bog‘lovchi."
+  },
+  {
+    "savol": "Kompyuterning asosiy qismlaridan biri qaysi?",
+    "variantlar": [
+      "Protsessor, xotira (RAM), anakart, saqlash qurilmasi, PSU.",
+      "Faqat printer va skanner.",
+      "Faqat faqat internet kabellari.",
+      "Faqat monitor va klaviatura."
+    ],
+    "javob": "Protsessor, xotira (RAM), anakart, saqlash qurilmasi, PSU."
+  },
+  {
+    "savol": "Kursorni harakatlantirish uchun qaysi qurilma ishlatiladi?",
+    "variantlar": [
+      "Sichqoncha va klaviatura yordamida.",
+      "Faqat printer yordamida.",
+      "Faqat BIOS menyusi yordamida.",
+      "Faqat internet router yordamida."
+    ],
+    "javob": "Sichqoncha va klaviatura yordamida."
+  },
+  {
+    "savol": "L1 cache qayerda joylashgan?",
+    "variantlar": [
+      "L1 cache protsessor ichida joylashgan eng tezkor va kichik xotira.",
+      "L1 cache faqat qattiq diskda joylashadi.",
+      "L1 cache BIOS xotirasida joylashadi.",
+      "L1 cache faqat printerlarda mavjud."
+    ],
+    "javob": "L1 cache protsessor ichida joylashgan eng tezkor va kichik xotira."
+  },
+  {
+    "savol": "Makroslar (Macros) nima vazifani bajaradi?",
+    "variantlar": [
+      "Makroslar — takrorlanadigan amallarni avtomatik bajaradi.",
+      "Makroslar — printerni sozlaydi.",
+      "Makroslar — internetni o‘chiradi.",
+      "Makroslar — grafik kartani yangilaydi."
+    ],
+    "javob": "Makroslar — takrorlanadigan amallarni avtomatik bajaradi."
+  },
+  {
+    "savol": "Microsoft Word dasturi nima uchun ishlatiladi?",
+    "variantlar": [
+      "Word — matnli hujjatlar tayyorlash, tahrirlash, formatlash va chop etish uchun.",
+      "Word — internetni sozlash uchun.",
+      "Word — grafikalarni qayta ishlash uchun.",
+      "Word — kompyuterning elektr ta’minotini boshqarish uchun."
+    ],
+    "javob": "Word — matnli hujjatlar tayyorlash, tahrirlash, formatlash va chop etish uchun."
+  },
+  {
+    "savol": "Modem vazifasi nima?",
+    "variantlar": [
+      "Modem — raqamli signallarni analogga va aksincha aylantiradi.",
+      "Modem — printerni boshqaradi.",
+      "Modem — grafik kartani boshqaradi.",
+      "Modem — kompyuterning elektr ta’minotini boshqaradi."
+    ],
+    "javob": "Modem — raqamli signallarni analogga va aksincha aylantiradi."
+  },
+  {
+    "savol": "Monitor nima uchun ishlatiladi?",
+    "variantlar": [
+      "Monitor — kompyuter chiqish qurilmasi, foydalanuvchiga vizual ma’lumotni ko‘rsatadi.",
+      "Monitor — faqat printer sifatida ishlatiladi.",
+      "Monitor — internet tezligini oshiradi.",
+      "Monitor — BIOS xotirasini saqlaydi."
+    ],
+    "javob": "Monitor — kompyuter chiqish qurilmasi, foydalanuvchiga vizual ma’lumotni ko‘rsatadi."
+  },
+  {
+    "savol": "Motherboard nima vazifani bajaradi?",
+    "variantlar": [
+      "Motherboard — barcha kompyuter komponentlarini birlashtiruvchi asosiy plata.",
+      "Motherboard — internetni boshqaradi.",
+      "Motherboard — printerni boshqaradi.",
+      "Motherboard — hujjatlarni tahrirlaydi."
+    ],
+    "javob": "Motherboard — barcha kompyuter komponentlarini birlashtiruvchi asosiy plata."
+  },
+  {
+    "savol": "MS Word dasturida asosan nima bilan ishlanadi?",
+    "variantlar": [
+      "Asosan matn bilan ishlanadi: yozish, tahrirlash, formatlash, jadvallar, rasm, havolalar qo‘shish.",
+      "Asosan grafik kartalar bilan ishlanadi.",
+      "Asosan internet protokollari bilan ishlanadi.",
+      "Asosan printer sozlamalari bilan ishlanadi."
+    ],
+    "javob": "Asosan matn bilan ishlanadi: yozish, tahrirlash, formatlash, jadvallar, rasm, havolalar qo‘shish."
+  },
+  {
+    "savol": "MS Wordda sahifa raqamini qayerdan kiritiladi?",
+    "variantlar": [
+      "Insert → Page Number menyusi orqali.",
+      "Insert → Picture menyusi orqali.",
+      "Layout → Columns menyusi orqali.",
+      "Review → Track Changes menyusi orqali."
+    ],
+    "javob": "Insert → Page Number menyusi orqali."
+  },
+  {
+    "savol": "Multidasturlash tizimi nimani anglatadi?",
+    "variantlar": [
+      "Bir nechta dasturlarni bir vaqtning o‘zida ishga tushirish imkonini beradi.",
+      "Faqat bitta dastur ishlashiga imkon beradi.",
+      "Faqat printer dasturlarini ishga tushiradi.",
+      "Faqat BIOS dasturlarini ishlatadi."
+    ],
+    "javob": "Bir nechta dasturlarni bir vaqtning o‘zida ishga tushirish imkonini beradi."
+  },
+  {
+    "savol": "Named Range nima?",
+    "variantlar": [
+      "Excelda katakka nom berib, formulalarda undan qulay foydalaniladi.",
+      "Named Range — printer qog‘ozini aniqlaydi.",
+      "Named Range — BIOS sozlamalarini o‘zgartiradi.",
+      "Named Range — grafik kartani boshqaradi."
+    ],
+    "javob": "Excelda katakka nom berib, formulalarda undan qulay foydalaniladi."
+  },
+  {
+    "savol": "Narration funksiyasi nima vazifa bajaradi?",
+    "variantlar": [
+      "PowerPointda slaydlarga ovozli sharh qo‘shish imkonini beradi.",
+      "Narration — internetni tezlashtiradi.",
+      "Narration — BIOSni sozlaydi.",
+      "Narration — printerni boshqaradi."
+    ],
+    "javob": "PowerPointda slaydlarga ovozli sharh qo‘shish imkonini beradi."
+  },
+  {
+    "savol": "Operatsion tizim misoli keltiring.",
+    "variantlar": [
+      "Windows, macOS, Linux, Android.",
+      "Excel, Word, PowerPoint, Access.",
+      "Chrome, Firefox, Edge, Safari.",
+      "Photoshop, CorelDRAW, AutoCAD."
+    ],
+    "javob": "Windows, macOS, Linux, Android."
+  },
+  {
+    "savol": "Operatsion tizim nima uchun kerak?",
+    "variantlar": [
+      "Operatsion tizim — kompyuterning barcha dasturiy va apparat qismlarini boshqaradi.",
+      "Operatsion tizim — printerni faqat qog‘oz chiqarish uchun ishlatadi.",
+      "Operatsion tizim — BIOS xotirasini yangilaydi.",
+      "Operatsion tizim — faqat internetni sozlaydi."
+    ],
+    "javob": "Operatsion tizim — kompyuterning barcha dasturiy va apparat qismlarini boshqaradi."
+  },
+  {
+    "savol": "Operatsion tizim nima?",
+    "variantlar": [
+      "Kompyuter resurslarini boshqaradigan va dasturlarni ishlashiga imkon beradigan tizim dasturi.",
+      "Internet ulanish tezligini oshiradigan apparat.",
+      "Faqat printerlarni boshqaradigan dastur.",
+      "Grafik kartani tezlashtiradigan texnologiya."
+    ],
+    "javob": "Kompyuter resurslarini boshqaradigan va dasturlarni ishlashiga imkon beradigan tizim dasturi."
+  },
+  {
+    "savol": "Operatsion tizimlar turlariga misol keltiring.",
+    "variantlar": [
+      "Desktop OT: Windows 10, macOS; Mobil OT: Android, iOS; Server OT: Ubuntu Server, Windows Server.",
+      "Operatsion tizimlar faqat printer drayverlaridan iborat.",
+      "Operatsion tizimlar BIOS konfiguratsiyasi orqali belgilanadi.",
+      "Operatsion tizimlar faqat grafik kartalar uchun ishlatiladi."
+    ],
+    "javob": "Desktop OT: Windows 10, macOS; Mobil OT: Android, iOS; Server OT: Ubuntu Server, Windows Server."
+  },
+  {
+    "savol": "Operatsion tizimning asosiy vazifalaridan biri nima?",
+    "variantlar": [
+      "Resurslarni boshqarish: xotira, protsessor, fayllar, qurilmalar va interfeysni ta’minlash.",
+      "Faqat printerni boshqarish.",
+      "Faqat internet tezligini sozlash.",
+      "Faqat BIOSni yangilash."
+    ],
+    "javob": "Resurslarni boshqarish: xotira, protsessor, fayllar, qurilmalar va interfeysni ta’minlash."
+  },
+  {
+    "savol": "PCI Express x16 sloti qancha PCIe kanal bilan ishlaydi?",
+    "variantlar": [
+      "16 lane (yo‘lak) bilan ishlaydi.",
+      "8 lane bilan ishlaydi.",
+      "4 lane bilan ishlaydi.",
+      "1 lane bilan ishlaydi."
+    ],
+    "javob": "16 lane (yo‘lak) bilan ishlaydi."
+  },
+  {
+    "savol": "Pivot Table nima uchun ishlatiladi?",
+    "variantlar": [
+      "Excelda katta ma’lumotlarni tezkor guruhlash va tahlil qilish uchun ishlatiladi.",
+      "Pivot Table printer sozlamalarini boshqaradi.",
+      "Pivot Table internet protokollarini boshqaradi.",
+      "Pivot Table BIOSni yangilaydi."
+    ],
+    "javob": "Excelda katta ma’lumotlarni tezkor guruhlash va tahlil qilish uchun ishlatiladi."
+  },
+  {
+    "savol": "PowerPoint dasturi nima uchun ishlatiladi?",
+    "variantlar": [
+      "Taqdimot (slayd) yaratish, matn, rasm, grafik, video va animatsiyalarni joylashtirish uchun.",
+      "PowerPoint faqat printerni boshqarish uchun ishlatiladi.",
+      "PowerPoint faqat internetni sozlash uchun ishlatiladi.",
+      "PowerPoint faqat BIOSni sozlash uchun ishlatiladi."
+    ],
+    "javob": "Taqdimot (slayd) yaratish, matn, rasm, grafik, video va animatsiyalarni joylashtirish uchun."
+  },
+  {
+    "savol": "PowerPoint dasturining asosiy vazifasi nima?",
+    "variantlar": [
+      "Taqdimotlar yaratish va namoyish qilish — ta’lim, ish, reklama yoki shaxsiy foydalanish uchun.",
+      "PowerPoint faqat grafik kartalarni boshqaradi.",
+      "PowerPoint faqat printer sozlamalarini ta’minlaydi.",
+      "PowerPoint faqat BIOSni yangilaydi."
+    ],
+    "javob": "Taqdimotlar yaratish va namoyish qilish — ta’lim, ish, reklama yoki shaxsiy foydalanish uchun."
+  }
+],
+  "dmed_tests": [
+    {
+      "savol": "DMED tizimida avtorizatsiya qanday amalga oshiriladi? ",
+      "variantlar": [
+        "JSHSHIR va himoya kodi orqali",
+        "FISH orqali",
+        "Mobil SMS kod",
+        "Email orqali"
+      ],
+      "javob": "JSHSHIR va himoya kodi orqali"
+    },
+    {
+      "savol": "DMED tizimini joriy etishning asosiy vazifalari qanday? ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "Barcha javoblar to‘g‘ri",
+        "Login va parol orqali",
+        "Bemorning manzili"
+      ],
+      "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "savol": "DMED qo‘llab-quvvatlash xizmati bilan qanday usullar orqali bog‘lanish mumkin? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Bemorning manzili",
+        "Telefon raqami, Telegram bot va chat orqali",
+        "Mobil SMS kod"
+      ],
+      "javob": "Telefon raqami, Telegram bot va chat orqali"
+    },
+    {
+      "savol": "Bemor qaysi mobil ilova orqali shifokarga yozilishi mumkin? ",
+      "variantlar": [
+        "Email orqali",
+        "Mobil SMS kod",
+        "DMED",
+        "Login va parol orqali"
+      ],
+      "javob": "DMED"
+    },
+    {
+      "savol": "DMED tizimida bemorning yagona identifikatori (Med ID) qanday beriladi? ",
+      "variantlar": [
+        "Med ID tizim tomonidan avtomatik ravishda beriladi",
+        "Email orqali",
+        "Bemorning manzili",
+        "Login va parol orqali"
+      ],
+      "javob": "Med ID tizim tomonidan avtomatik ravishda beriladi"
+    },
+    {
+      "savol": "Bemor o‘zini poliklinikaga mustaqil ravishda biriktirishi mumkinmi? ",
+      "variantlar": [
+        "Ha, mobil ilova yoki MyGov orqali",
+        "Telefon raqami",
+        "Email orqali",
+        "Bemorning manzili"
+      ],
+      "javob": "Ha, mobil ilova yoki MyGov orqali"
+    },
+    {
+      "savol": "DMED tizimida rasmiy hujjat aylanishi reestri sifatida qaysi internet-manba ishlatiladi? ",
+      "variantlar": [
+        "Telefon raqami",
+        "FISH orqali",
+        "Mobil SMS kod",
+        "docs.dmed.uz"
+      ],
+      "javob": "docs.dmed.uz"
+    },
+    {
+      "savol": "DMED tizimida qanday maxfiylik turi mavjud? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Shifokor darajasidagi maxfiylik",
+        "Mobil SMS kod",
+        "Telefon raqami"
+      ],
+      "javob": "Shifokor darajasidagi maxfiylik"
+    },
+    {
+      "savol": "Bemor birinchi marta DTMga murojaat qilganda qabulga yozish qanday amalga oshiriladi? ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "FISH orqali",
+        "Bemorning FISH/Med ID bo‘yicha",
+        "Telefon raqami"
+      ],
+      "javob": "Bemorning FISH/Med ID bo‘yicha"
+    },
+    {
+      "savol": "Bemorni qayta qabulga yozish uchun qanday ma’lumotlar zarur? ",
+      "variantlar": [
+        "Email orqali",
+        "Med ID/tug‘ilganlik haqidagi guvohnoma/pasport",
+        "Mobil SMS kod",
+        "Telefon raqami"
+      ],
+      "javob": "Med ID/tug‘ilganlik haqidagi guvohnoma/pasport"
+    },
+    {
+      "savol": "Birinchi tashrif paytida bemorning rasmini qanday to‘g‘ri olish kerak? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Telefon raqami",
+        "Barcha javoblar to‘g‘ri",
+        "FISH orqali"
+      ],
+      "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "savol": "Hujjatlari yo‘q bemorni qo‘shishda qaysi maydonlarni to‘ldirish kerak? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "FISH/tug‘ilgan sana/jins",
+        "Email orqali",
+        "FISH orqali"
+      ],
+      "javob": "FISH/tug‘ilgan sana/jins"
+    },
+    {
+      "savol": "Tizimda xorijiy bemor (norezident)ni qidirish qanday ma’lumotlar bo‘yicha amalga ",
+      "variantlar": [
+        "FISH orqali",
+        "Mobil SMS kod",
+        "Pasport ma’lumotlari bo‘yicha",
+        "Bemorning manzili"
+      ],
+      "javob": "Pasport ma’lumotlari bo‘yicha"
+    },
+    {
+      "savol": "\"Qabullar-Aktiv\" bo‘limida bemorlarning qanday statuslari mavjud? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Mobil SMS kod",
+        "Taklif qilingan/qabulda/navbatda",
+        "Email orqali"
+      ],
+      "javob": "Taklif qilingan/qabulda/navbatda"
+    },
+    {
+      "savol": "Reimbursatsiya va oddiy retsept o‘rtasida qanday farq bor? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Bemorning manzili",
+        "Email orqali",
+        "Reimbursatsiya retseptlari Sug‘urta fondi hisobiga qoplanadi, oddiylarini"
+      ],
+      "javob": "Reimbursatsiya retseptlari Sug‘urta fondi hisobiga qoplanadi, oddiylarini"
+    },
+    {
+      "savol": "Reimbursatsiya retseptida \"Tabletkalar\" chiqarish shakli bo‘lgan preparatni bemorga ",
+      "variantlar": [
+        "Email orqali",
+        "Mobil SMS kod",
+        "30 yoki 60 dona miqdorida",
+        "Login va parol orqali"
+      ],
+      "javob": "30 yoki 60 dona miqdorida"
+    },
+    {
+      "savol": "Shifokor yoki amaliyotchi hamshira bemorni ko‘rigini boshlash uchun qanday harakatlarni ",
+      "variantlar": [
+        "Login va parol orqali",
+        "\"Qabullar-Aktiv\" bo‘limida bemorni topish, uni qabulga chaqirish, qabulni",
+        "Telefon raqami",
+        "Bemorning manzili"
+      ],
+      "javob": "\"Qabullar-Aktiv\" bo‘limida bemorni topish, uni qabulga chaqirish, qabulni"
+    },
+    {
+      "savol": "Shifokor boshqa mutaxassisga yozilgan bemorni qabul qila oladimi? ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "Bemorning manzili",
+        "Ha",
+        "FISH orqali"
+      ],
+      "javob": "Ha"
+    },
+    {
+      "savol": "Bemorni vaqtga emas, balki jonli navbatga yozish mumkinmi? Masalan, vaqtga barcha ",
+      "variantlar": [
+        "Email orqali",
+        "Mobil SMS kod",
+        "Login va parol orqali",
+        "Ha, bemorni jonli navbatga yozish mumkin, lekin faqat joriy sanaga"
+      ],
+      "javob": "Ha, bemorni jonli navbatga yozish mumkin, lekin faqat joriy sanaga"
+    },
+    {
+      "savol": "Shifokor ko‘rik paytida bemorni boshqa mutaxassisga yo‘naltira oladimi? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Email orqali",
+        "Ha, oladi, murojaat epizodidagi \"+Uchrashuv\" tugmasi orqali",
+        "Bemorning manzili"
+      ],
+      "javob": "Ha, oladi, murojaat epizodidagi \"+Uchrashuv\" tugmasi orqali"
+    },
+    {
+      "savol": "Qanday davolash turi bilan yo‘naltirish uchun direktor tasdig‘i kerak emas? ",
+      "variantlar": [
+        "Email orqali",
+        "Bemorning manzili",
+        "FISH orqali",
+        "Ambulator"
+      ],
+      "javob": "Ambulator"
+    },
+    {
+      "savol": "Gospitalizatsiya yo‘naltirishisiz bemorni statsionarga rasmiylashtirish mumkinmi? ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "Telefon raqami",
+        "Yo‘q, statsionarga rasmiylashtirish uchun mutlaqo yo‘naltirish zarur",
+        "Login va parol orqali"
+      ],
+      "javob": "Yo‘q, statsionarga rasmiylashtirish uchun mutlaqo yo‘naltirish zarur"
+    },
+    {
+      "savol": "Bemor profilida qanday ma’lumotlarni ko‘rish mumkin? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Barcha javoblar to‘g‘ri",
+        "FISH orqali",
+        "Mobil SMS kod"
+      ],
+      "javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "savol": "O‘tkazilgan skrining ma’lumotlarini tahrirlash mumkinmi? ",
+      "variantlar": [
+        "Email orqali",
+        "Yo‘q, mumkin emas",
+        "Login va parol orqali",
+        "Bemorning manzili"
+      ],
+      "javob": "Yo‘q, mumkin emas"
+    },
+    {
+      "savol": "Bemorning antropometrik ma’lumotlari qaerga kiritiladi? ",
+      "variantlar": [
+        "FISH orqali",
+        "Telefon raqami",
+        "Mobil SMS kod",
+        "Murojaat epizodidagi \"Antropometriya\" bo‘limiga \"Yangilash\" tugmasi"
+      ],
+      "javob": "Murojaat epizodidagi \"Antropometriya\" bo‘limiga \"Yangilash\" tugmasi"
+    },
+    {
+      "savol": "Shifokor bemorning ko‘rik tarixini ko‘ra oladimi? ",
+      "variantlar": [
+        "Bemorning manzili",
+        "FISH orqali",
+        "Email orqali",
+        "Ha, bemor tibbiy kartasidagi \"Ko‘riklar\" bo‘limida"
+      ],
+      "javob": "Ha, bemor tibbiy kartasidagi \"Ko‘riklar\" bo‘limida"
+    },
+    {
+      "savol": "Xodimlardan kimlar reimbursatsiya retseptlarini yoza oladi? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Bemorning manzili",
+        "FISH orqali",
+        "Oila shifokorlari"
+      ],
+      "javob": "Oila shifokorlari"
+    },
+    {
+      "savol": "Bemorni patronaj rejasiga qo‘shish uchun qanday harakatlarni qilish kerak? ",
+      "variantlar": [
+        "FISH orqali",
+        "Login va parol orqali",
+        "Telefon raqami",
+        "\"Patronaj-Rejalashtirish\" bo‘limida bemorni topish, patronaj hamshirasini"
+      ],
+      "javob": "\"Patronaj-Rejalashtirish\" bo‘limida bemorni topish, patronaj hamshirasini"
+    },
+    {
+      "savol": "Bemorga bir vaqtning o‘zida bir nechta analizni tayinlash mumkinmi? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Bemorning manzili",
+        "Ha, turli guruhlardan bir nechta analizni birdan tanlash mumkin",
+        "Mobil SMS kod"
+      ],
+      "javob": "Ha, turli guruhlardan bir nechta analizni birdan tanlash mumkin"
+    },
+    {
+      "savol": "Fizioterapevtik kursni qo‘shish uchun nima qilish kerak? ",
+      "variantlar": [
+        "Yaratilgan davolash kursi sahifasida \"Davolash rejasini qo‘shish\"",
+        "Mobil SMS kod",
+        "Login va parol orqali",
+        "Telefon raqami"
+      ],
+      "javob": "Yaratilgan davolash kursi sahifasida \"Davolash rejasini qo‘shish\""
+    },
+    {
+      "savol": "Bemorning tibbiy kartasidagi \"Joriy ko‘rik\" bo‘limida \"Homiladorlik (Hisobga olish)\" ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Murojaat epizodida O00–O99 guruhidan (homiladorlik, tug‘ish va",
+        "Bemorning manzili",
+        "Email orqali"
+      ],
+      "javob": "Murojaat epizodida O00–O99 guruhidan (homiladorlik, tug‘ish va"
+    },
+    {
+      "savol": "Biksni qayta sterilizatsiyaga yuborish mumkinmi? ",
+      "variantlar": [
+        "Email orqali",
+        "Ha, mumkin",
+        "FISH orqali",
+        "Login va parol orqali"
+      ],
+      "javob": "Ha, mumkin"
+    },
+    {
+      "savol": "Bemorga qanday sog‘liq guruhlarini ko‘rsatish mumkin? ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "FISH orqali",
+        "I–II–III–IV guruhlar",
+        "Login va parol orqali"
+      ],
+      "javob": "I–II–III–IV guruhlar"
+    },
+    {
+      "savol": "Tizimga yangi foydalanuvchi qanday qo‘shiladi? ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "Foydalanuvchilar/xodimlar bo‘limida",
+        "Login va parol orqali",
+        "Email orqali"
+      ],
+      "javob": "Foydalanuvchilar/xodimlar bo‘limida"
+    },
+    {
+      "savol": "Bitta xodimga bir nechta rolni biriktirish mumkinmi? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "FISH orqali",
+        "Telefon raqami",
+        "Ha"
+      ],
+      "javob": "Ha"
+    },
+    {
+      "savol": "Jurnallarni qaysi bo‘limda ko‘rish mumkin? ",
+      "variantlar": [
+        "Email orqali",
+        "Hujjatlar – jurnallar bo‘limida",
+        "FISH orqali",
+        "Bemorning manzili"
+      ],
+      "javob": "Hujjatlar – jurnallar bo‘limida"
+    },
+    {
+      "savol": "Tizimda avtomatik shakllantirilgan jurnallardagi ma’lumotlar qancha tez-tez yangilanadi? ",
+      "variantlar": [
+        "Bemorning manzili",
+        "Ma’lumotlar tizimga kiritilgandan so‘ng darhol yangilanadi",
+        "Mobil SMS kod",
+        "Login va parol orqali"
+      ],
+      "javob": "Ma’lumotlar tizimga kiritilgandan so‘ng darhol yangilanadi"
+    },
+    {
+      "savol": "Natijasi kiritilgan analizni bekor qilish mumkinmi? ",
+      "variantlar": [
+        "Yo‘q",
+        "Mobil SMS kod",
+        "Telefon raqami",
+        "FISH orqali"
+      ],
+      "javob": "Yo‘q"
+    },
+    {
+      "savol": "Hamshiraga qanday bo‘limlar ochiq? ",
+      "variantlar": [
+        "Qabullar/bemorlar/patronaj",
+        "Telefon raqami",
+        "Bemorning manzili",
+        "FISH orqali"
+      ],
+      "javob": "Qabullar/bemorlar/patronaj"
+    },
+    {
+      "savol": "Davolash kursi paytida preparatga allergik reaksiya ko‘rsatilgandan so‘ng amalni bekor ",
+      "variantlar": [
+        "Ha, mumkin",
+        "Login va parol orqali",
+        "Bemorning manzili",
+        "Telefon raqami"
+      ],
+      "javob": "Ha, mumkin"
+    },
+    {
+      "savol": "Agar shifokor murojaat epizodidan bemorni gospitalizatsiyaga yo‘naltirsa, nimani ",
+      "variantlar": [
+        "Mobil SMS kod",
+        "Bemorning manzili",
+        "Murojaat epizodida MKB-10 bo‘yicha hech bo‘lmaganda bitta diagnoz",
+        "Login va parol orqali"
+      ],
+      "javob": "Murojaat epizodida MKB-10 bo‘yicha hech bo‘lmaganda bitta diagnoz"
+    },
+    {
+      "savol": "Yo‘naltirish yaratishda bir nechta gospitalizatsiya maqsadini tanlash mumkinmi? ",
+      "variantlar": [
+        "Yo‘q, mumkin emas",
+        "Mobil SMS kod",
+        "FISH orqali",
+        "Login va parol orqali"
+      ],
+      "javob": "Yo‘q, mumkin emas"
+    },
+    {
+      "savol": "Poliklinikadan gospitalizatsiyaga yo‘naltirilgan bemorlar tizimning qaysi bo‘limiga ",
+      "variantlar": [
+        "Bemorning manzili",
+        "FISH orqali",
+        "Login va parol orqali",
+        "Qabul bo‘limi → Yo‘llanmalar"
+      ],
+      "javob": "Qabul bo‘limi → Yo‘llanmalar"
+    },
+    {
+      "savol": "Shifokor qaysi statsionar ko‘rigini faqat bir marta o‘tkazishi mumkin? ",
+      "variantlar": [
+        "FISH orqali",
+        "Email orqali",
+        "Birlamchi ko‘rik",
+        "Mobil SMS kod"
+      ],
+      "javob": "Birlamchi ko‘rik"
+    },
+    {
+      "savol": "Bemorni statsionarga rasmiylashtirganda nima avtomatik ochiladi? ",
+      "variantlar": [
+        "Kasallik tarixi",
+        "Login va parol orqali",
+        "FISH orqali",
+        "Mobil SMS kod"
+      ],
+      "javob": "Kasallik tarixi"
+    },
+    {
+      "savol": "Kasallik tarixida 096 formasini ochish uchun qanday amalni bajarish kerak? ",
+      "variantlar": [
+        "096 forma faqat tug‘ruqxona va perinatal markazlarda avtomatik ochiladi",
+        "Mobil SMS kod",
+        "Telefon raqami",
+        "FISH orqali"
+      ],
+      "javob": "096 forma faqat tug‘ruqxona va perinatal markazlarda avtomatik ochiladi"
+    },
+    {
+      "savol": "Bemorni statsionarning boshqa bo‘limiga ko‘chirish mumkinmi? ",
+      "variantlar": [
+        "Bemorning manzili",
+        "Ha, mumkin, agar boshqa bo‘limda bo‘sh palatalar bo‘lsa",
+        "Email orqali",
+        "Mobil SMS kod"
+      ],
+      "javob": "Ha, mumkin, agar boshqa bo‘limda bo‘sh palatalar bo‘lsa"
+    },
+    {
+      "savol": "Gospitalizatsiyani tugatish uchun qaysi hujjat mutlaqo to‘ldirilishi kerak? ",
+      "variantlar": [
+        "Email orqali",
+        "Bemorning manzili",
+        "Telefon raqami",
+        "Chiqarish epikrizi"
+      ],
+      "javob": "Chiqarish epikrizi"
+    },
+    {
+      "savol": "Hamshira qaysi omborning tovar qoldiqlarini ko‘rib chiqishga ruxsati bor? ",
+      "variantlar": [
+        "Bemorning manzili",
+        "Ombor mudiri uni biriktirgan omborning tovar qoldiqlari",
+        "Telefon raqami",
+        "Email orqali"
+      ],
+      "javob": "Ombor mudiri uni biriktirgan omborning tovar qoldiqlari"
+    },
+    {
+      "savol": "Laborant tahlil natijalarini tizimga kiritgandan so‘ng nima qilish kerak? ",
+      "variantlar": [
+        "Login va parol orqali",
+        "Tahlilni tasdiqlash",
+        "FISH orqali",
+        "Email orqali"
+      ],
+      "javob": "Tahlilni tasdiqlash"
+    }
+  ]
+}
