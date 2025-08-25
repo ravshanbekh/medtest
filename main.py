@@ -83,7 +83,7 @@ async def quiz20_handler(message: Message):
     await send_next_question(message.bot, message.from_user.id)
 
 
-# Savol yuborish (A, B, C, D ko‘rinishida)
+# Savol yuborish (A, B, C, D ko‘rinishida) - RANDOM variantlar
 async def send_next_question(bot: Bot, user_id: int):
     session = user_sessions.get(user_id)
     if not session:
@@ -104,14 +104,26 @@ async def send_next_question(bot: Bot, user_id: int):
     text = f"{session['index']+1}. {savol['savol']}\n\n"
 
     letters = ["A", "B", "C", "D"]
+
+    # variantlarni aralashtirish
+    variants = savol["variantlar"][:]
+    random.shuffle(variants)
+
+    # to‘g‘ri javobni yangi tartibda qaysi indexda turganini aniqlash
+    correct_index = variants.index(savol["javob"])
+
+    # sessiyada shu savol uchun to‘g‘ri indexni saqlaymiz
+    session["current_correct"] = correct_index
+    session["current_variants"] = variants
+
     variants_text = "\n".join(
-        [f"{letters[i]}. {v}" for i, v in enumerate(savol["variantlar"])]
+        [f"{letters[i]}. {v}" for i, v in enumerate(variants)]
     )
     text += variants_text
 
     buttons = [
         [InlineKeyboardButton(text=letters[i], callback_data=str(i))]
-        for i in range(len(savol["variantlar"]))
+        for i in range(len(variants))
     ]
     kb = InlineKeyboardMarkup(inline_keyboard=buttons)
 
@@ -127,15 +139,15 @@ async def answer_handler(callback: CallbackQuery, bot: Bot):
         await callback.answer("❗ Sessiya topilmadi")
         return
 
-    savol = session["tests"][session["index"]]
     index = int(callback.data)
-    tanlangan = savol["variantlar"][index]
-    togri = savol["javob"]
+    correct_index = session.get("current_correct")
+    variants = session.get("current_variants")
 
-    if tanlangan == togri:
+    if index == correct_index:
         session["score"] += 1
         await bot.send_message(user_id, "✅ To‘g‘ri!")
     else:
+        togri = variants[correct_index]
         await bot.send_message(user_id, f"❌ Noto‘g‘ri!\nTo‘g‘ri javob: {togri}")
 
     session["index"] += 1
@@ -151,3 +163,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
